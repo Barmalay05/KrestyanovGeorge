@@ -1,0 +1,39 @@
+# CMake build directories and output files
+build/
+bin/
+lib/
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+cmake_install.cmake
+Makefile
+ninja.build
+*.ninja
+
+# VS Code config and workspace states
+.vscode/
+
+# Visual Studio temporary files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.filters
+
+# OS temporary files
+Thumbs.db
+Desktop.ini
+
+# Executables and libraries
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
